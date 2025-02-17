@@ -1,0 +1,34 @@
+1
+FiestaInn  
+Puebla
+10
+1
+Grand Americana
+CDMX
+8
+4
+101
+John Doe
+johndoe@email.com
+5551234567
+7 
+5
+101
+FiestaInn
+2
+7
+9
+101
+Grand Americana
+3
+8
+5
+2
+Grand Americana
+Monterrey
+5
+101
+Johnathan Doe
+johndoe@gmail.com
+5559876543
+0

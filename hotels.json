@@ -1,0 +1,32 @@
+[
+    {
+        "name": "FiestaInn  ",
+        "location": "Puebla",
+        "rooms": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": false,
+            "10": false
+        }
+    },
+    {
+        "name": "Grand Americana",
+        "location": "Monterrey",
+        "rooms": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": false
+        }
+    }
+]
